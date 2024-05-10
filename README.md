@@ -1,6 +1,8 @@
 # PlacesCR - Natours  🌳
 
-👨‍💻 &nbsp;Applicacion in progress.\
+👨‍💻 &nbsp;Applicacion in progress.
+
+
 
 `PlacesCR` application to visit places in Costa Rica
 
